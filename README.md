@@ -1,1 +1,1 @@
-Add cybersecurity dashboard project
+Cybersecurity dashboard project
